@@ -12,6 +12,7 @@ buildroot-prebuilt
 - [Introduction · Buildroot架構解析](https://hugh712.gitbooks.io/buildroot/content/)
 - [使用 buildroot 建立 Mips Cross-Compiler 的環境 | by MH Chen | Medium](https://pipi9baby.medium.com/%E4%BD%BF%E7%94%A8-buildroot-%E5%BB%BA%E7%AB%8B-mips-cross-compiler-%E7%9A%84%E7%92%B0%E5%A2%83-e63a665b87f2)
 - [builtroot make menuconfig流程 - suonikeyinsu - 博客园](https://www.cnblogs.com/black-mamba/p/8888539.html)
+- [digiampietro/buildroot-armv7: A set of scripts, configuration files and Buildroot external tree to setup a Qemu emulation environment to run and reverse engineer the *Netgear DVA 5592* executables. This environment uses Docker, Buildroot and Qemu to emulate a board with an ARMv7 Cortex A9 processor, Linux kernel 3.4.11-rt19, uClibc 0.9.33.2, and old versions of other libraries.](https://github.com/digiampietro/buildroot-armv7)
 
 ### x86_64
 - [buildroot编译运行QEMU X86_64](https://jgsun.github.io/2020/05/28/qemu-x86-64/)
